@@ -1,0 +1,6 @@
+# Shorter, more useful onboarding call (user = Maya, 2026-11-23)
+Goal: call ends w/ something live, not a tour. Host = Diego (small-biz) or Lena Marsh (Arena).
+T1 DELIVERED: 8 angles (draft-first, template-first, phone-test closer, client drives, one goal one experience, split into 2 short calls, put link somewhere real, 2-wk plan). My combo: #2/#1 + #3 + #5.
+T2 DELIVERED: client-drives call sketch (~35-40 min): 0-3 goal, 3-8 setup, 8-22 client builds, 22-30 phone test, 30-35 put link somewhere real, 35-40 next steps/recap. Experiences: Image Anchor main (product photo target), QR Launch fallback at ~min 20; skip Turntable/Floorplace/Facecast (3D files/beta). Client sends 4 things 1 biz day before (target photo/packaging, logo PNG/SVG, what happens on scan, who joins + phone + login). Host prep 15 min (workspace/seat/plan, template e.g. catalog 1023/1074 IA free Kite, 1005 QR free; test target on phone, sample asset). Host talks <30%. Arena = lighter/human-first. Unknowns: Canvas vs Classic default, who provisions, Studio/Stage owner.
+T3 DELIVERED (LAST PIECE): short pre-call email to client main contact (what to bring + what we'll finish) + 3 questions to tell hands-on builder vs delegator + how to adapt. Offered: one-page host checklist.
+Open: user feedback; offered host checklist not yet requested.

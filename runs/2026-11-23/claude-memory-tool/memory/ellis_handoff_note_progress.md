@@ -1,0 +1,3 @@
+# Handoff message to Ellis Grant (user = Maya, 2026-11-23)
+Lists 3 pieces: case study skeleton (case_study_skeleton_progress), Turntable caption for Ferris tile (turntable_showcase_caption_progress), scheduling note (maya_scheduling_note_progress). Each w/ purpose + key "before you use it" item; asks Ellis to send questions before starting.
+- T1 delivered: short friendly message. Caveats included: dwell number source/definition unconfirmed, permission needed for Ferris/customer names, [booking link]/[time zone] placeholders; scheduling note is for sales outreach (Wes/Hannah), not public site copy. No deadline given by Maya - left [date] placeholder.

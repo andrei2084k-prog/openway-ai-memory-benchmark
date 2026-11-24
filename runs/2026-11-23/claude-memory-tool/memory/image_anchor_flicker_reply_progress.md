@@ -1,0 +1,8 @@
+# Customer reply: Image Anchor flickers on printed marker (started 2026-11-23)
+Ask: thank user, say plainly we couldn't reproduce yet (Kenji tried), don't blame user, no fix promise, ask for what we need.
+No relevant facts in memory (checked similar reply files) -> no invented details; placeholders [Name], [Your name].
+v1 DELIVERED: subject, thanks, plain "couldn't reproduce, doesn't mean not happening", 6 asks (screen recording, device/OS/browser, how opened + link, photo of marker w/ size/finish/lighting, when it happens, other device/screen test), commitment to report back (flagged as optional), sign-off.
+Notes given: asks are my guess not a Kitefold checklist; Kenji named (swap to "our team" optional); privacy line for recordings optional.
+v2 (turn 2) DELIVERED: user said v1 stiff -> wanted warmer, shorter, human, not homework. Exactly 3 easy Qs: phone+browser, lighting, still happens on published link? Plus 1 optional screen-recording line (can cut). Dropped follow-up promise (offered line to add back). Assumed they tested from a non-published link (flagged). Kenji named (flagged).
+v3 (turn 3) DELIVERED: casual Slack note to Kenji + Rosa: couldn't repro, 3 Qs asked (+optional recording), Rosa watches thread/logs/pings Kenji (role from Jan 2026 team doc, stale), Kenji ideas if unclear (match device/browser, dim light + glare on glossy print, published link vs preview, check marker image trackability) = my general guesses not Kitefold docs. Flags: [customer] placeholder; photo bullet not asked in customer reply. Essentially DONE.
+(v1 offer, superseded:) Offered: shorter 2-3 ask version, chat/in-app version. Awaiting feedback.

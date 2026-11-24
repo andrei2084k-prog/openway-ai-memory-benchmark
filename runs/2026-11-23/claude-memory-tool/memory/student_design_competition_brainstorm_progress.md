@@ -1,0 +1,7 @@
+# Student design competition brainstorm (user = Maya, started 2026-11-23)
+Goal: students build small camera experience in Kitefold editor; judged on creativity + how well it works for a real visitor. No big budget / no 3D scanning rig.
+- Turn 1: 10 themes (5 playful, 5 serious) + 3 judging prompts. Flagged: experience types available to students unconfirmed.
+- Turn 2: user liked Image Anchor-on-print + Turntable ideas. Wrote 3 professor-ready briefs: (1) Readable Label (Image Anchor, mock medicine label/pamphlet), (2) Object Up Close (Turntable, no scanner; free/open-licensed models), (3) Menu That Answers Back (Image Anchor, allergy menu card, optional Turntable dish). Flags: Image Anchor 1 target/experience; Turntable model limits unknown; glossy/curved tracking untested (Kenji owns tracking); fictional medical/allergy content disclaimer; experience definitions name-based (Arjun/Priya confirm).
+- Turn 3: user asked for 4-5 criterion rubric (plain language, encouraging/informal tone) + ways Tamsin Hale + Ellis Grant could promote to design schools w/o sales-pitch feel. Delivered.
+  - Team doc (Jan 19, 2026; ~10 mo old): Tamsin = product+brand designer; Ellis = marketing mgr (webinars, LinkedIn, trade shows); Priya checks public product statements before Ellis publishes. Flagged to confirm roles still current + Priya review of public copy.
+  - Open: prizes/budget, student plan access (free seats? edu discount policy), eligibility/dates, IP/consent for visitor testing, judges panel - none decided.

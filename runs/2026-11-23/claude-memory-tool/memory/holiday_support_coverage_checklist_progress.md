@@ -1,0 +1,6 @@
+# Holiday-season support coverage checklist (2026-11-23, user = likely Maya/support desk)
+Ask: checklist grouped Before / During / After, checkbox items, one line each, owner blank on every item. First draft OK, user will mark up.
+v1 delivered: generic desk checklist, no owners filled. Drew on: Service Level Policy (Arena P1 first response 2h from Jul 1, policy silent on holidays; Sunday 04:00-06:00 PT maintenance window; P1 updates continue until resolved) and care_break_notice_template (break notice, urgent path, reply-time standard still unknown).
+v2 (turn 2): added section "Escalations and handoffs" (3 subsections: who gets pinged, handoff note, acknowledging w/ fix waiting). Role placeholders only, e.g. [Care desk lead], [DevOps on-call], [Arena CSM], [Exec escalation contact]; no names/contacts invented. Used SLP: first response = named person ack not resolution (s2.4), P1 updates till resolved (s6.4), Arena 2h (s6.2), classification review (s6.1). Placement: suggested between Before and During, or standalone.
+v3 (turn 3, final): <=10-line Slack short version (Before/During/After + escalation/handoff/ack) + separate plain-question list of open decisions, one per line, nothing assumed.
+Open (put as items, not assumed): who covers urgent/P1 during break, reply-time promise, break dates, Arena urgent contact.

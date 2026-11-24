@@ -1,0 +1,6 @@
+# Client note: how we handle 3D files (2026-11-23, user = Maya presumably)
+Ask: short plain-language, friendly/reassuring note; covers after upload, who can see it, what if conversion isn't clean; clear subject line; first draft.
+Facts NOT in memory (so bracketed placeholders): accepted formats, conversion steps/timing, who has access (roles), storage/retention/deletion, encryption, whether files used for AI/training, failure workflow/owner, support contact. Only known-ish: Oddfellow SOW = confidential, private download link; Care desk = Rosa Imbert (release notes); project health panel flags oversized textures/missing fallbacks (4.0 notes).
+Turn 2: user asked tighten opening, add "model looks wrong in the editor" section pointing to Rosa (Kitefold Care desk), make file-format wording less technical (readers = marketers). Delivered v2 (whole note). Rosa contact method (email/channel) unknown -> placeholder. Formats still unknown -> placeholder.
+Turn 3: user asked 2-sentence Slack version for Lena Marsh + Diego Ferreira (to forward to their accounts) + 3 alt subject lines (none warning-sounding). Delivered. Lena/Diego roles unknown (not in memory checked) - didn't assume.
+Status v1: Draft v1 DELIVERED with placeholders + list of things to confirm.

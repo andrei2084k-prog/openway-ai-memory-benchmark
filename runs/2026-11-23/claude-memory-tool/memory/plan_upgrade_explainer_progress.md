@@ -1,0 +1,10 @@
+# Plan-upgrade explainer for marketing leads (plain language, no jargon) - started 2026-11-23
+Audience: marketing leads, non-technical. User wants to react to structure before full paragraphs.
+## Outline delivered (turn 1)
+Purpose: help marketing leads understand what they get / what stays same / what they pay when client moves to bigger plan.
+Sections: 1 What stays the same; 2 More room to run campaigns; 3 Extra features that switch on; 4 Better support and reliability; 5 What it costs and when it starts.
+Open Qs I asked: all four plans or one jump? is section 5 (pricing) wanted? (user said "good start", didn't answer; went on to draft)
+## Sources: matrix 2026-07 (limits/features) + price list 2026-10-01 (views Studio 60k, Arena 1.5M; matrix stale on those). No upgrade/proration/handover rules in notes -> don't invent.
+## Turn 2: user asked to draft section on pre-upgrade worries (does anything break, editor look, handover, who to talk to). <2 short paragraphs, warm/businesslike, generic Studio->Stage example. Drafted with [confirm] placeholders where notes silent (what happens to live experiences at switch, editor differences, handover mechanics, switch timing).
+## Turn 3: user asked for full clean explainer (~2 min read) + closing line to Customer Success contact + brief sales cover email + 3 subject lines + flag assumptions. Delivered. Text left clean (no markers); assumptions listed separately by section after the draft. Assumed sentences (live experiences carry over, editor same, CS walks through switch, timing, "view" plain definition, Stage no named CSM). Included list prices (Studio $279/$219, Stage $850/$680 per month, monthly/annual; Oct 1 list). Flagged: Stage named CSM not included (add-on $440) so closing line may not fit all Stage clients; Studio 99.5% not in service policy so no numbers used; no proration rules.
+Studio->Stage facts used: seats 3->10, live projects 15->40, views 60k->220k, domains 1->3, unbranded add-on->included, Pulse Full->+CSV export, support email 2 days->1 business day, uptime 99.5->99.7, service credits start, staging add-on. Named CSM is Arena only (CSM add-on exists for Stage).

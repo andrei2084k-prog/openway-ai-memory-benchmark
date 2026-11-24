@@ -1,0 +1,7 @@
+# Funding-round lessons talk for first-time founders (2026-11-23)
+- T1: user wants outline only (5-6 sections, one-line purpose, rough timing), practical + a bit confessional, honest not victory-lap. No slides yet. Slot length unknown -> gave timings for assumed 30 min + % split.
+- Delivered 6 sections: 1 What I expected vs what happened; 2 Before you raise (should you / ready?); 3 The process (what ate time); 4 What went wrong / do differently (confessional core, longest); 5 Terms + advisors (term sheet reading, get counsel); 6 After close + takeaways.
+- Kept generic: no figures/terms (term sheet 5.2 confidentiality; close-date info in my notes conflicts - Apr 22 close vs blank countersign - so avoided stating facts). Told user to check what she can share w/ Halvard/investors.
+- T2: user wants opening to land harder: open on small uncomfortable moment from process, then zoom out to lesson. Asked for 3 alternative opening approaches + 1-2 sentences each on flow into section 1; she'll pick. Delivered w/ [bracket] placeholders, no invented specifics (don't make up her moments).
+- T3: user over-explains; wants each section = 2 writable takeaways + 1 room question; flag redundant sections to cut; prefers lean. Delivered. Flagged S3 (process) as most redundant (fold into S2/S4); S6 partly overlaps S4/S5 (trim to takeaways close). Suggested lean 4-section version ~20 min.
+- Open: slot length, her real stories for section 4, whether to draft openings / speaker notes.

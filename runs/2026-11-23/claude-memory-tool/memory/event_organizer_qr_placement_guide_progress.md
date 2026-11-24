@@ -1,0 +1,7 @@
+# Event organizer guide: where to put QR codes at a venue (user = Maya presumably, 2026-11-23)
+- Audience: busy event people, non-tech; plain & practical. Topics: entrances, queue lines, registration desks, signage near stage.
+- Step 1 DONE: delivered outline (section titles + one-line descriptions); user will react before full draft. Applied standing rule (fallback 'kfld.to/<shortname>' under code) as a section line. Placeholders only; no Kitefold-sourced numbers.
+- User approved outline as-is (12 sections), asked full draft: each section = where it goes / why it works / usual mistake; friendly; checklist at end for walkthrough before doors.
+- Step 2 DONE: delivered full draft (12 sections, Where/Why/Avoid format + checklist). Sizes/heights/10:1 distance rule = general print best practice, flagged as starting points to test-print. kfld.to short names = placeholders. Unanswered earlier Qs: length, event type, QR Launch vs any code.
+- Step 3 DONE: delivered (a) non-salesy intro para (no Kitefold mention), (b) tiny testing section (who/phones/when/avoid) meant to replace body of sec 11, (c) review flags: too long (12 sections + 17-item checklist), queue section muddled, name-badge idea weak, 10:1 size rule + 'flicker' + 'short link' wording technical, kfld.to assumes Kitefold/QR Launch (unanswered) and 'different short name per code' unverified, sec 11 overlaps new testing block.
+- Next: await feedback; possible trimmed version.

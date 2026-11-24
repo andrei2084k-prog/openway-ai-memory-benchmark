@@ -1,0 +1,8 @@
+# Account handover checklist, outgoing -> incoming manager (2026-11-23, user = Maya likely)
+Ask: generic clean handover checklist; cover outgoing gathers / incoming confirms / what happens with client; practical, tickable.
+- T1 delivered: 5 sections (outgoing gathers; handover meeting; incoming confirms in 3 biz days; client steps; day-30 close-out) + notes.
+- Drew on team structure doc (one named owner; feature reqs -> Priya; bugs via Care/Rosa; >10% discount = Maya). Timings (3d/1wk/2wk/30d/60d) are MY suggestions, flagged as such.
+- Flagged: Studio/Stage + agency owner unclear in team doc (Jan 2026, may be stale).
+- T2 delivered: reorganized into 3 blocks (Before / During meeting / After) with OUT / IN / BOTH owner tags per item + Open Risks table (status, client aware, owner, next step/date) + rules (overdue promises told to client in first contact; red -> Maya or Lena for Arena). Assumed intro message to client goes AFTER meeting (flagged; movable to Block 1). Escalation to Maya/Lena is my suggestion.
+- T3 delivered: two templates. (1) one-page account summary (snapshot, contacts table, history, open items, where things live, never-say list, reachable-until). (2) warm client intro note from outgoing manager w/ placeholders, cc new manager; honesty tips on overdue promises. Suggested cc Lena/Diego = my suggestion, not a rule. Offered: 3-line short version, leaving-company version, incoming manager follow-up note.
+- (T1) Offered next: one-page version, owner/date columns, Arena (Lena) variant. Related: paloma_handover_checklist_progress (deal-specific one), renewal_conversation_checklist_progress.

@@ -1,0 +1,5 @@
+# Retail marketing meetup talk outline (audience: in-store + online marketers, non-engineers, low jargon)
+- 2026-11-23 Turn 1: user gave no topic; I assumed bridging in-store + online. Title: "One Shopper, Two Worlds". Delivered skeleton: hook "Shopper Doesn't See Your Org Chart"; S1 Where handoff breaks; S2 Start w/ shopper's moment; S3 Small bridges (QR on shelf tags etc.); S4 Measuring what happened; S5 Store teams on board; close "Pick One Bridge This Month". Asked: slot length? theme? (unanswered so far)
+- Turn 2: user liked it. Wants (a) 4 story-style opening ideas for first minute, each shopper pulling out phone in aisle, concrete + a little funny; (b) tighten sections so each ends w/ a "try Monday morning" action. Delivered in chat.
+- Turn 3: user asked for (a) one-paragraph friendly non-salesy abstract for organizer, (b) likely audience Q&A incl. tough ones, short honest answers, direct voice. Delivered in chat. Rule: no invented stats; answers tell user to plug in own numbers.
+- Next: await feedback (slot length still unknown).
